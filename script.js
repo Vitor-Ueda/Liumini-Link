@@ -16,8 +16,12 @@ const SECTIONS = [
     icon: "shop",
     items: [
       { key: "mercadolivre", label: "Mercado Livre", url: null },
-      { key: "shopee", label: "Shopee", url: null },
-      { key: "tiktokshop", label: "TikTok Shop", url: null },
+      { key: "shopee", label: "Shopee", url: "https://br.shp.ee/dy9HpT57" },
+      {
+        key: "tiktokshop",
+        label: "TikTok Shop",
+        url: "https://vt.tiktok.com/ZSqnMbTLJ/?page=TikTokShop&utm_campaign=client_share&utm_source=whatsapp&share_app_id=1233",
+      },
     ],
   },
   {
@@ -27,7 +31,7 @@ const SECTIONS = [
       {
         key: "whatsapp",
         label: "WhatsApp",
-        url: null,
+        url: "https://wa.me/message/TER57GP6RB75O1",
         primary: true,
         ctaLabel: "Comprar pelo WhatsApp",
       },
@@ -36,8 +40,6 @@ const SECTIONS = [
         label: "Instagram",
         url: "https://www.instagram.com/liuminihome/",
       },
-      { key: "facebook", label: "Facebook", url: null },
-      { key: "tiktok", label: "TikTok", url: null },
     ],
   },
 ];
