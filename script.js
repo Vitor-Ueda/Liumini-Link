@@ -15,7 +15,7 @@ const SECTIONS = [
     title: "Lojas",
     icon: "shop",
     items: [
-      { key: "mercadolivre", label: "Mercado Livre", url: null },
+      { key: "mercadolivre", label: "Mercado Livre", url: "https://www.mercadolivre.com.br/pagina/liuminihome" },
       { key: "shopee", label: "Shopee", url: "https://br.shp.ee/dy9HpT57" },
       {
         key: "tiktokshop",
